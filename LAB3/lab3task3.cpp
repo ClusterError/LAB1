@@ -7,6 +7,7 @@ class car {
         string brand;
         int year;
     public:
+    
     //construct
 
     car(string b = "", int y=0){
